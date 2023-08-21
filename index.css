@@ -17,3 +17,11 @@
     text-align: center;
     color: white;
 }
+
+.fotos {
+    height: 350px;
+}
+
+.foto-larga {
+    width: 100%;
+}

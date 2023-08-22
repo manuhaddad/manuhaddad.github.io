@@ -26,6 +26,11 @@
     height: 500px;
 }
 
+.botao {
+    border: 0px;
+    cursor: pointer;
+}
+
 
 .foto-larga {
     width: 100%;

@@ -10,7 +10,7 @@ let animatePessoas = () => {
 
     if(data < value){
         counterPessoas.innerText = Math.ceil(data + time);
-        setTimeout(animatePessoas, 100);
+        setTimeout(animatePessoas, 85);
     } else {
         counterPessoas.innerText = value.toString().replace('.', ',');
     }

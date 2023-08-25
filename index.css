@@ -31,7 +31,21 @@
     cursor: pointer;
 }
 
-
 .foto-larga {
     width: 100%;
+}
+
+.cartao {
+    height: 300px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 7.5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.imagem-cartao {
+    height: calc(100% - 30px);
 }
